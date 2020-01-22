@@ -1,3 +1,3 @@
 # visit-banff
 
-![Landing Page](visit-banff/img/banff.png)
+![Landing Page](img/banff.png)
